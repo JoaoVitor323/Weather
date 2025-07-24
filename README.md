@@ -30,23 +30,6 @@ SITE TESTAVEL: https://joaovitor323.github.io/Weather/
 
 ---
 
-## 📁 Estrutura de Pastas
-
-project/
-│
-├── css/
-│ └── style.css
-│
-├── js/
-│ ├── request.js
-│ └── env.js
-│
-├── index.html
-└── README.md
-
-
----
-
 ## ❗ Aviso sobre bug importante
 
 > ⚠️ **Erro conhecido na exibição de bandeiras:**  
